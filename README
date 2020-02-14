@@ -1,3 +1,5 @@
+# To configure the SugarCRM over the Docker env
+
 In order to create local development environment do next:
 
 1. Install Docker 1.12 or later
